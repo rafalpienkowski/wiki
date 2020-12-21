@@ -31,3 +31,12 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.c
 # (ncspot)[https://github.com/hrkfdn/ncspot]
 
 CLI based Spotify client
+
+# (jid)[https://github.com/simeji/jid]
+
+Json Incremental Digger
+
+It's a very simple tool.
+You can drill down JSON interactively by using filtering queries like jq.
+
+Suggestion and Auto completion of this tool will provide you a very comfortable JSON drill down.
