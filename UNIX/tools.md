@@ -40,3 +40,11 @@ It's a very simple tool.
 You can drill down JSON interactively by using filtering queries like jq.
 
 Suggestion and Auto completion of this tool will provide you a very comfortable JSON drill down.
+
+# (ngrok)[https://ngrok.com/]
+
+Enables local endpoint to the Internet
+
+# (ADR tool)[https://github.com/npryce/adr-tools]
+
+Cli-based tool for creating and managing ADRs
