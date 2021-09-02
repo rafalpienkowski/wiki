@@ -18,3 +18,7 @@ Patterns
 - internal goals which makes a buffer between SLO and SLA
 ### SLI Service-Level Indicator
 - metrics
+
+### ADR visualization tool
+
+https://dev.to/simonbrown/visualising-adrs-3klm
